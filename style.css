@@ -1,0 +1,111 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+    background-image: url("D:/Desktop/countdown/holi.jpg");
+    background-size: 100%;
+}
+
+.holi{
+    font-size: 50px;
+    font-weight: bolder;
+    position: absolute;
+    left: 20%;
+    margin-top: 20px;
+}
+.holi2{
+    font-size: 60px;
+    font-weight: bolder;
+    position: relative;
+    width: 800px;
+    top: 130px;
+    /* text-align: center; */
+    left: 21%;
+    margin-top: 20px;
+    /* padding-bottom: 50px; */
+    /* background-color: red; */
+}
+
+.days{
+    border: 2px solid black;
+    /* font-weight: bolder; */
+    font-size: 100px;
+    height: 110px;
+    width: 320px;
+    position: absolute;
+    top: 250px;
+    left: 150px;
+}
+.hours{
+    border: 2px solid black;
+    font-size: 100px;
+    height: 110px;
+    width: 190px;
+    position: absolute;
+    top: 250px;
+    left: 490px;
+    /* background-color: blue; */
+}
+.min{
+    border: 2px solid black;
+    font-size: 100px;
+    height: 110px;
+    width: 220px;
+    position: absolute;
+    top: 250px;
+    left: 700px;
+    /* background-color: green; */
+}
+.sec{
+    border: 2px solid black;
+    font-size: 100px;
+    height: 110px;
+    width: 190px;
+    position: absolute;
+    top: 250px;
+    left: 950px;
+    /* background-color: yellow; */
+}
+
+
+.daytext{
+    font-size: 50px;
+    height: 60px;
+    width: 80px;
+    position: relative;
+    top: 200px;
+    left: 350px;
+}
+.hourtext{
+    font-size: 45px;
+    height: 60px;
+    width: 80px;
+    position: relative;
+    top: 150px;
+    left: 560px;
+}
+.mintext{
+    font-size: 50px;
+    height: 60px;
+    width: 80px;
+    position: relative;
+    top: 80px;
+    left: 810px;
+}
+.sectext{
+    font-size: 50px;
+    height: 60px;
+    width: 80px;
+    position: relative;
+    top: 20px;
+    left: 1060px;
+}
+
+
+
+
+
+
+
