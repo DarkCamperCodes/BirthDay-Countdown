@@ -8,14 +8,14 @@ body{
     background-size: 100%;
 }
 
-.holi{
+.heading{
     font-size: 50px;
     font-weight: bolder;
     position: absolute;
     left: 20%;
     margin-top: 20px;
 }
-.holi2{
+.subheading{
     font-size: 60px;
     font-weight: bolder;
     position: relative;
@@ -42,10 +42,10 @@ body{
     border: 2px solid black;
     font-size: 100px;
     height: 110px;
-    width: 190px;
+    width: 210px;
     position: absolute;
     top: 250px;
-    left: 490px;
+    left: 480px;
     /* background-color: blue; */
 }
 .min{
@@ -81,10 +81,10 @@ body{
 .hourtext{
     font-size: 45px;
     height: 60px;
-    width: 80px;
+    width: 95px;
     position: relative;
     top: 150px;
-    left: 580px;
+    left: 576px;
 }
 .mintext{
     font-size: 50px;
